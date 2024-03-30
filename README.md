@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning **machine learning, Computer vision, Big data analysis**
 
 - 📫 How to reach me **ead3070@sookmyung.ac.kr**
+  
 <a href="jojosmin.tistory.com" target="_blank"><img src="https://img.shields.io/badge/TISTORY-000000?style=plastic&logo=tistory&logoColor=FFFFFF"/></a>
 
 <h3 align="left">Languages and Tools:</h3>
